@@ -31,7 +31,7 @@ passion:    Distributed Systems & Event-Driven Architecture
 
 - 🧠  **Domain-Driven Design** and **Microservices** are my bread and butter
 - ☕  Yes, I named myself after **Apache Kafka** — and I use it daily
-- 🔭  Currently building productivity & wellness apps deployed on **Vercel**
+- 🔭  Currently building productivity & health apps deployed on **Vercel**
 - 💬  Ask me about **Java · Spring · Quarkus · Kafka · Schema Registry · DDD**
 - 📬  Reach me at **carloskafka7@gmail.com**
 
@@ -61,17 +61,17 @@ passion:    Distributed Systems & Event-Driven Architecture
 
 <br/>
 
-### 🌱 Recomeco App
+### 🥣 Recomeco App
 
-> A new beginning, beautifully crafted.
+> Your gut reset guide — know exactly what to eat, day by day.
 
 [![Live App](https://img.shields.io/badge/🌐%20Live%20App-recomecoapp.vercel.app-10b981?style=for-the-badge&logoColor=white)](https://recomecoapp.vercel.app/)
 &nbsp;
 [![GitHub Repo](https://img.shields.io/badge/⚙️%20Source%20Code-carloskafka/recomecoapp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloskafka/recomecoapp)
 
-**Recomeco** *(Portuguese for "new beginning")* is an app designed to help you reset, restart, and reconnect with what truly matters. Whether you're rebuilding habits, setting fresh goals, or just need a clean slate — Recomeco is your companion for every chapter that starts with *"this time, differently."* Lightweight, fast, and deployed on **Vercel**.
+**Recomeco** *(Portuguese for "fresh start")* is a practical recovery diet guide for when your stomach needs a reset. After diarrhea, stomach flu, or digestive discomfort, it shows you exactly what to eat each day of the week — from gentle broths and toast in the early days to gradually reintroducing solid foods as you heal. No guesswork, no searching: just clear, day-by-day guidance to get your gut back on track.
 
-`HTML` &nbsp; `Vercel` &nbsp; `Wellness` &nbsp; `Fresh Start`
+`HTML` &nbsp; `Vercel` &nbsp; `Health` &nbsp; `Recovery Diet`
 
 </div>
 
@@ -129,15 +129,12 @@ passion:    Distributed Systems & Event-Driven Architecture
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=carloskafka&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366f1&icon_color=6366f1" alt="carloskafka stats" />
+<!-- Auto-updated daily by .github/workflows/metrics.yml -->
+<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloskafka&theme=tokyonight&hide_border=true&background=1e1e2e&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="carloskafka streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=carloskafka&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366f1" alt="carloskafka top langs" />
 
 </div>
 
